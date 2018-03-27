@@ -1,0 +1,5 @@
+# Implicit SLAE
+
+Solve a system of linear algebraic equations Ax = b with residual no more than e = 10^(-9)
+And the matrix A is : ***non-singular, symmetric and strictly diagonally dominant.***
+
